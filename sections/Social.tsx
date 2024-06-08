@@ -31,7 +31,7 @@ export default function Main(
                 title={link.label}
               >
                 <Icon
-                  size={20}
+                  size={40}
                   id={link.label}
                   strokeWidth={2}
                 />
